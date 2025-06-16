@@ -38,8 +38,6 @@ Este módulo demuestra el patrón de Inyección de Dependencias (DI) en .NET, mo
    - El contenedor crea e inyecta las dependencias automáticamente cuando solicitas el consumidor (`Notifier`).
    - Este enfoque es escalable y preferido en aplicaciones grandes.
 
-```
-
 ### 📦 Requirements/Requisitos
 - [.NET 6+](https://dotnet.microsoft.com/)
 - Paquete NuGet: `Microsoft.Extensions.DependencyInjection`
